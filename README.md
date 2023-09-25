@@ -13,8 +13,7 @@
 
 A **Computer Science Student** from Aracaju, Brasil.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+  <img align="right" src="https://github.com/itallopacheco/itallopacheco/assets/60146868/4e34cdea-587d-4968-b251-09f19cfcc234" alt="img">
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a Back End developer using Django.
