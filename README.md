@@ -12,7 +12,6 @@
 <br />
 
 A **Computer Science Student** from Aracaju, Brasil.
-
   <img align="right" src="https://github.com/itallopacheco/itallopacheco/assets/60146868/4e34cdea-587d-4968-b251-09f19cfcc234" alt="img">
 **About Me!**
 
